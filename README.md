@@ -197,6 +197,7 @@ Users can customize:
 Add your application screenshots here.
 
 ```md
+Auto-Typer/Screenshot.png
 
 assets/screenshot2.png
 ```
