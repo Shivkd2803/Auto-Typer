@@ -197,7 +197,7 @@ Users can customize:
 Add your application screenshots here.
 
 ```md
-![Screenshot.png]([assets/screenshot.png](https://github.com/Shivkd2803/Auto-Typer/blob/main/Screenshot.png))
+![assets/screenshot.png](https://github.com/Shivkd2803/Auto-Typer/blob/main/Screenshot.png))
 
 assets/screenshot2.png
 ```
