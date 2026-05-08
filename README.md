@@ -81,7 +81,7 @@ AutoTyperPro/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/auto-typer-pro.git
+git clone https://github.com/yourusername/auto-typer.git
 cd auto-typer-pro
 ```
 
@@ -197,7 +197,7 @@ Users can customize:
 Add your application screenshots here.
 
 ```md
-assets/screenshot1.png
+
 assets/screenshot2.png
 ```
 
