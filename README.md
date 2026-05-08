@@ -196,11 +196,11 @@ Users can customize:
 
 Add your application screenshots here.
 
-```md
-![screenshot](https://github.com/Shivkd2803/Auto-Typer/blob/main/Screenshot.png)
 
-assets/screenshot2.png
-```
+![screenshot](https://github.com/Shivkd2803/Auto-Typer/blob/main/Screenshot.png).
+
+
+
 
 ---
 
